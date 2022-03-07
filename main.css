@@ -10,7 +10,7 @@ body {
 header {
   text-align: center;
   line-height: 4 rem;
-  color: "darkblue";
+  color: darkblue;
 }
 .container {
   display: flex;
